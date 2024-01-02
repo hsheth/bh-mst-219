@@ -1,0 +1,128 @@
+(ExpressProject "BH-MST-219-2352-1A-01"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\vish rana\lib\orcad\bhel_lib.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\bh-mst-219-2352-1a-01.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "C:\VISH RANA\Project\BHEL Metro\BHEL DEVLOPING\2023 BHEL\Traction_2K23\BH_MST_219(Motor Speed and Temp card)\REV1\NEW FOLDER\DRC\28dec2023.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE"))
+  (Folder "Outputs"
+    (File "..\new folder\drc\27dec2023.drc"
+      (Type "Report"))
+    (File "..\new folder\drc\28dec2023.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (VCC_BAR
+      (LibraryName "E:\DATA_SERVER\LIBRARY\CAPTURE\SLS_GENERAL.OLB")
+      (DeviceIndex "0"))
+    (MCP1700T-3302E_TT
+      (FullPartName "MCP1700T-3302E_TT.Normal")
+      (LibraryName "C:\VISH RANA\LIB\ORCAD\BHEL_LIB.OLB")
+      (DeviceIndex "0"))
+    (CAP
+      (FullPartName "CAP.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MGFS102415
+      (FullPartName "MGFS102415.Normal")
+      (LibraryName "C:\VISH RANA\LIB\ORCAD\BHEL_LIB.OLB")
+      (DeviceIndex "0"))
+    ("TEST POINT"
+      (FullPartName "TEST POINT.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (SN74LVC8T245MPWREP
+      (FullPartName "SN74LVC8T245MPWREP.Normal")
+      (LibraryName "C:\VISH RANA\LIB\ORCAD\BHEL_LIB.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\SPB_15.5.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (74HC14D,653
+      (FullPartName "74HC14D,653.Normal")
+      (LibraryName "C:\VISH RANA\LIB\ORCAD\BHEL_LIB.OLB")
+      (DeviceIndex "0"))
+    (VO2630-X009T
+      (FullPartName "VO2630-X009T.Normal")
+      (LibraryName "C:\VISH RANA\LIB\ORCAD\BHEL_LIB.OLB")
+      (DeviceIndex "0"))
+    (general
+      (LibraryName "C:\VISH RANA\LIB\ORCAD\TEMP1.OLB")
+      (DeviceIndex "0"))
+    (Bac-history
+      (LibraryName "C:\VISH RANA\LIB\ORCAD\TEMP.OLB")
+      (DeviceIndex "0"))
+    (123
+      (LibraryName "C:\VISH RANA\LIB\ORCAD\TEMP1.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\bh-mst-219-2352-1a-01.dsn")
+      (Path "Design Resources" ".\bh-mst-219-2352-1a-01.dsn" "Main SCHEMATIC")
+      (Path "Design Resources" ".\bh-mst-219-2352-1a-01.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library" "c:\vish rana\lib\orcad\bhel_lib.olb")
+      (Path "Outputs")
+      (Select "Design Resources" ".\bh-mst-219-2352-1a-01.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 274"))
+      (Tab 0)))
+  (MPSSessionName "admin")
+  (ISPCBBASICLICENSE "false"))
